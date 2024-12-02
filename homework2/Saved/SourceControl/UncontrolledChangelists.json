@@ -7,12 +7,15 @@
 			"files": [
 				"C:/Users/Nathan/Documents/Unreal Projects/homework2/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Levels/Level1.umap",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_cube.uasset",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_container.uasset",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_stick.uasset",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/target/MAT_target.uasset",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/target/target.uasset",
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/target/MAT_targethit.uasset",
 				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/box_grabbable.uasset",
 				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_box.uasset",
-				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_cube.uasset",
-				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_hammer.uasset",
-				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_container.uasset",
-				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_stick.uasset"
+				"C:/Users/Nathan/Documents/github repo/FA24-KnudtsonG-LandochN/homework2/Content/HW2Content/Grabbables/grabbable_hammer.uasset"
 			]
 		}
 	]
